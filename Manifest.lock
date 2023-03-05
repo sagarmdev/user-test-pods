@@ -1,0 +1,694 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.5.0)
+  - ADCountryPicker (2.1.0)
+  - Adjust (4.29.7):
+    - Adjust/Core (= 4.29.7)
+  - Adjust/Core (4.29.7)
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - AMRatingControl (1.3.0)
+  - Analytics (3.9.0)
+  - ApiAI (0.7.2):
+    - ApiAI/AudioFileConverter (= 0.7.2)
+    - ApiAI/Core (= 0.7.2)
+    - ApiAI/Events (= 0.7.2)
+    - ApiAI/ResponseMapping (= 0.7.2)
+    - ApiAI/UIKit (= 0.7.2)
+    - ApiAI/UserEntities (= 0.7.2)
+    - ApiAI/VoiceFileRequest (= 0.7.2)
+    - ApiAI/VoiceRequest (= 0.7.2)
+  - ApiAI/AudioFileConverter (0.7.2):
+    - ApiAI/Core
+  - ApiAI/Core (0.7.2)
+  - ApiAI/Events (0.7.2):
+    - ApiAI/Core
+  - ApiAI/ResponseMapping (0.7.2):
+    - ApiAI/Core
+  - ApiAI/UIKit (0.7.2):
+    - ApiAI/Core
+    - ApiAI/VoiceRequest
+  - ApiAI/UserEntities (0.7.2):
+    - ApiAI/Core
+  - ApiAI/VoiceFileRequest (0.7.2):
+    - ApiAI/Core
+  - ApiAI/VoiceRequest (0.7.2):
+    - ApiAI/Core
+  - AppAuth (1.4.0):
+    - AppAuth/Core (= 1.4.0)
+    - AppAuth/ExternalUserAgent (= 1.4.0)
+  - AppAuth/Core (1.4.0)
+  - AppAuth/ExternalUserAgent (1.4.0)
+  - BIObjCHelpers (0.4.3)
+  - Braintree (4.30.2):
+    - Braintree/Card (= 4.30.2)
+    - Braintree/Core (= 4.30.2)
+    - Braintree/PayPal (= 4.30.2)
+    - Braintree/UI (= 4.30.2)
+  - Braintree/Apple-Pay (4.30.2):
+    - Braintree/Core
+  - Braintree/Card (4.30.2):
+    - Braintree/Core
+  - Braintree/Core (4.30.2)
+  - Braintree/DataCollector (4.30.2):
+    - Braintree/Core
+  - Braintree/PaymentFlow (4.30.2):
+    - Braintree/Card
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPal (4.30.2):
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPalDataCollector (4.30.2):
+    - Braintree/Core
+    - Braintree/PayPalUtils
+  - Braintree/PayPalOneTouch (4.30.2):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+    - Braintree/PayPalUtils
+  - Braintree/PayPalUtils (4.30.2)
+  - Braintree/UI (4.30.2):
+    - Braintree/Card
+    - Braintree/Core
+  - Braintree/UnionPay (4.30.2):
+    - Braintree/Card
+    - Braintree/Core
+  - Braintree/Venmo (4.30.2):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+  - BraintreeDropIn (7.5.0):
+    - BraintreeDropIn/DropIn (= 7.5.0)
+  - BraintreeDropIn/DropIn (7.5.0):
+    - Braintree/Card (~> 4.30)
+    - Braintree/Core (~> 4.30)
+    - Braintree/PaymentFlow (~> 4.30)
+    - Braintree/PayPal (~> 4.30)
+    - Braintree/UnionPay (~> 4.30)
+    - BraintreeDropIn/UIKit
+  - BraintreeDropIn/UIKit (7.5.0)
+  - Cache (5.2.0)
+  - Cosmos (16.0.0)
+  - CryptoSwift (1.3.0)
+  - DBAttachmentPickerController (1.1.4)
+  - DropDown (2.3.13)
+  - ENSwiftSideMenu (0.1.4)
+  - ESPullToRefresh (2.9.1)
+  - FacebookCore (0.9.0):
+    - FBSDKCoreKit (~> 5.0)
+  - FacebookLogin (0.9.0):
+    - FacebookCore (~> 0.9.0)
+    - FBSDKCoreKit (~> 5.0)
+    - FBSDKLoginKit (~> 5.0)
+  - FacebookShare (0.9.0):
+    - FacebookCore (~> 0.9.0)
+    - FBSDKCoreKit (~> 5.0)
+    - FBSDKShareKit (~> 5.0)
+  - FaveButton (3.2.1)
+  - FBSDKCoreKit (5.15.1):
+    - FBSDKCoreKit/Basics (= 5.15.1)
+    - FBSDKCoreKit/Core (= 5.15.1)
+  - FBSDKCoreKit/Basics (5.15.1)
+  - FBSDKCoreKit/Core (5.15.1):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.15.1):
+    - FBSDKLoginKit/Login (= 5.15.1)
+  - FBSDKLoginKit/Login (5.15.1):
+    - FBSDKCoreKit (~> 5.0)
+  - FBSDKShareKit (5.15.1):
+    - FBSDKShareKit/Share (= 5.15.1)
+  - FBSDKShareKit/Share (5.15.1):
+    - FBSDKCoreKit (~> 5.0)
+  - Firebase/Analytics (6.14.0):
+    - Firebase/Core
+  - Firebase/Core (6.14.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.1.7)
+  - Firebase/CoreOnly (6.14.0):
+    - FirebaseCore (= 6.5.0)
+  - Firebase/DynamicLinks (6.14.0):
+    - Firebase/CoreOnly
+    - FirebaseDynamicLinks (~> 4.0.6)
+  - Firebase/Messaging (6.14.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 4.1.10)
+  - FirebaseAnalytics (6.1.7):
+    - FirebaseCore (~> 6.5)
+    - FirebaseInstanceID (~> 4.2)
+    - GoogleAppMeasurement (= 6.1.7)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - FirebaseAnalyticsInterop (1.4.0)
+  - FirebaseCore (6.5.0):
+    - FirebaseCoreDiagnostics (~> 1.0)
+    - FirebaseCoreDiagnosticsInterop (~> 1.0)
+    - GoogleUtilities/Environment (~> 6.4)
+    - GoogleUtilities/Logger (~> 6.4)
+  - FirebaseCoreDiagnostics (1.1.2):
+    - FirebaseCoreDiagnosticsInterop (~> 1.0)
+    - GoogleDataTransportCCTSupport (~> 1.0)
+    - GoogleUtilities/Environment (~> 6.2)
+    - GoogleUtilities/Logger (~> 6.2)
+    - nanopb (~> 0.3.901)
+  - FirebaseCoreDiagnosticsInterop (1.1.0)
+  - FirebaseDynamicLinks (4.0.6):
+    - FirebaseAnalyticsInterop (~> 1.3)
+    - FirebaseCore (~> 6.2)
+  - FirebaseInstanceID (4.2.8):
+    - FirebaseCore (~> 6.5)
+    - GoogleUtilities/Environment (~> 6.4)
+    - GoogleUtilities/UserDefaults (~> 6.4)
+  - FirebaseMessaging (4.1.10):
+    - FirebaseAnalyticsInterop (~> 1.3)
+    - FirebaseCore (~> 6.2)
+    - FirebaseInstanceID (~> 4.1)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.2)
+    - GoogleUtilities/Environment (~> 6.2)
+    - GoogleUtilities/Reachability (~> 6.2)
+    - GoogleUtilities/UserDefaults (~> 6.2)
+    - Protobuf (>= 3.9.2, ~> 3.9)
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - Flurry-iOS-SDK/FlurrySDK (10.2.0)
+  - FlutterwaveSDK (1.3.1):
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - "MaterialComponents/TextControls+OutlinedTextAreas"
+    - "MaterialComponents/TextControls+OutlinedTextFields"
+    - RxCocoa
+    - RxSwift
+    - Swinject
+    - SwinjectAutoregistration
+  - GoogleAppMeasurement (6.1.7):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (= 0.3.9011)
+  - GoogleDataTransport (3.2.0)
+  - GoogleDataTransportCCTSupport (1.2.3):
+    - GoogleDataTransport (~> 3.2)
+    - nanopb (~> 0.3.901)
+  - GoogleMaps (3.9.0):
+    - GoogleMaps/Maps (= 3.9.0)
+  - GoogleMaps/Base (3.9.0)
+  - GoogleMaps/Maps (3.9.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.9.0):
+    - GoogleMaps/Base (= 3.9.0)
+  - GooglePlacesAPI (1.1.4):
+    - Alamofire (~> 4)
+    - ObjectMapper (~> 3)
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleUtilities/AppDelegateSwizzler (6.4.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.4.0)
+  - GoogleUtilities/Logger (6.4.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.4.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.4.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.4.0)"
+  - GoogleUtilities/Reachability (6.4.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.4.0):
+    - GoogleUtilities/Logger
+  - GTMAppAuth (1.0.0):
+    - AppAuth/Core (~> 1.0)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.4.0):
+    - GTMSessionFetcher/Full (= 1.4.0)
+  - GTMSessionFetcher/Core (1.4.0)
+  - GTMSessionFetcher/Full (1.4.0):
+    - GTMSessionFetcher/Core (= 1.4.0)
+  - Imaginary (4.2.0):
+    - Cache (~> 5.0)
+  - IQKeyboardManager (6.5.6)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Lightbox (2.3.0):
+    - Imaginary (~> 4.0)
+  - Lockbox (3.0.6)
+  - lottie-ios (3.2.3)
+  - Mantle (2.1.1):
+    - Mantle/extobjc (= 2.1.1)
+  - Mantle/extobjc (2.1.1)
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - MaterialComponents/AnimationTiming (124.2.0)
+  - MaterialComponents/Availability (124.2.0)
+  - MaterialComponents/private/Math (124.2.0)
+  - "MaterialComponents/private/TextControlsPrivate+BaseStyle (124.2.0)":
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/private/Math
+    - "MaterialComponents/private/TextControlsPrivate+Shared"
+  - "MaterialComponents/private/TextControlsPrivate+OutlinedStyle (124.2.0)":
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Math
+    - "MaterialComponents/private/TextControlsPrivate+Shared"
+  - "MaterialComponents/private/TextControlsPrivate+Shared (124.2.0)":
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/private/Math
+    - "MaterialComponents/TextControls+Enums"
+  - "MaterialComponents/private/TextControlsPrivate+TextFields (124.2.0)":
+    - MaterialComponents/private/Math
+    - "MaterialComponents/private/TextControlsPrivate+Shared"
+  - "MaterialComponents/TextControls+BaseTextAreas (124.2.0)":
+    - "MaterialComponents/private/TextControlsPrivate+BaseStyle"
+    - "MaterialComponents/private/TextControlsPrivate+Shared"
+    - MDFInternationalization
+  - "MaterialComponents/TextControls+BaseTextFields (124.2.0)":
+    - "MaterialComponents/private/TextControlsPrivate+BaseStyle"
+    - "MaterialComponents/private/TextControlsPrivate+Shared"
+    - "MaterialComponents/private/TextControlsPrivate+TextFields"
+    - MDFInternationalization
+  - "MaterialComponents/TextControls+Enums (124.2.0)"
+  - "MaterialComponents/TextControls+OutlinedTextAreas (124.2.0)":
+    - MaterialComponents/Availability
+    - "MaterialComponents/private/TextControlsPrivate+OutlinedStyle"
+    - "MaterialComponents/TextControls+BaseTextAreas"
+  - "MaterialComponents/TextControls+OutlinedTextFields (124.2.0)":
+    - MaterialComponents/Availability
+    - "MaterialComponents/private/TextControlsPrivate+OutlinedStyle"
+    - "MaterialComponents/TextControls+BaseTextFields"
+  - MBProgressHUD (1.1.0)
+  - MDFInternationalization (3.0.0)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - nanopb (0.3.9011):
+    - nanopb/decode (= 0.3.9011)
+    - nanopb/encode (= 0.3.9011)
+  - nanopb/decode (0.3.9011)
+  - nanopb/encode (0.3.9011)
+  - NewRelicAgent (7.0.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ObjectMapper (3.5.1)
+  - Paystack (3.0.13):
+    - Paystack/Core (= 3.0.13)
+  - Paystack/Core (3.0.13)
+  - PINCache (2.3)
+  - pop (1.0.12)
+  - Protobuf (3.11.2)
+  - RCPageControl (0.1.2):
+    - pop
+  - Reachability (3.2)
+  - Result (4.1.0)
+  - RMActionController (1.3.1)
+  - RMDateSelectionViewController (2.3.1):
+    - RMActionController (~> 1.3.1)
+  - RMMapper (1.1.5)
+  - RoyoCoreFramework (0.0.3):
+    - ADCountryPicker
+    - AFNetworking
+    - Alamofire
+    - AlamofireObjectMapper
+    - FacebookCore
+    - FacebookLogin
+    - FacebookShare
+    - Moya
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Paystack
+    - SkeletonView
+    - SquareInAppPaymentsSDK
+    - SwiftHash
+    - SwiftyJSON
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SBJson (5.0.3)
+  - SDWebImage (5.2.3):
+    - SDWebImage/Core (= 5.2.3)
+  - SDWebImage/Core (5.2.3)
+  - SkeletonView (1.8.2)
+  - SKPhotoBrowser (6.1.0)
+  - Socket.IO-Client-Swift (13.1.3):
+    - Starscream (~> 3.0.2)
+  - SquareInAppPaymentsSDK (1.4.0)
+  - Starscream (3.0.6)
+  - Stripe (19.0.1)
+  - SwiftHash (2.0.2)
+  - SwiftyJSON (5.0.0)
+  - Swinject (2.7.1)
+  - SwinjectAutoregistration (2.7.0):
+    - Swinject (~> 2.7)
+  - SZTextView (1.3.0)
+  - TYAlertController (1.2.0)
+  - Urway (1.1.4)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+  - ZendeskCommonUISDK (4.3.1):
+    - ZendeskSDKConfigurationsSDK (~> 1.1.2)
+  - ZendeskCoreSDK (2.2.3)
+  - ZendeskMessagingAPISDK (3.3.0):
+    - ZendeskSDKConfigurationsSDK (~> 1.1.2)
+  - ZendeskMessagingSDK (3.3.0):
+    - ZendeskCommonUISDK (~> 4.3.0)
+    - ZendeskMessagingAPISDK (~> 3.3.0)
+  - ZendeskSDKConfigurationsSDK (1.1.4)
+  - ZendeskSupportProvidersSDK (5.0.2):
+    - ZendeskCoreSDK (~> 2.2.1)
+  - ZendeskSupportSDK (5.0.2):
+    - ZendeskMessagingSDK (~> 3.3.0)
+    - ZendeskSupportProvidersSDK (~> 5.0.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - ADCountryPicker (~> 2.1.0)
+  - Adjust (~> 4.29.7)
+  - AFNetworking/NSURLSession (~> 4.0)
+  - AFNetworking/Reachability (~> 4.0)
+  - AFNetworking/Security (~> 4.0)
+  - AFNetworking/Serialization (~> 4.0)
+  - Alamofire
+  - AMRatingControl
+  - Analytics (~> 3.0)
+  - ApiAI
+  - BIObjCHelpers
+  - Braintree
+  - Braintree/Apple-Pay
+  - Braintree/DataCollector
+  - Braintree/PayPal
+  - Braintree/Venmo
+  - BraintreeDropIn
+  - Cosmos (~> 16.0)
+  - CryptoSwift
+  - DBAttachmentPickerController
+  - DropDown
+  - ENSwiftSideMenu
+  - ESPullToRefresh
+  - FacebookCore
+  - FacebookLogin
+  - FacebookShare
+  - FaveButton
+  - Firebase/Analytics
+  - Firebase/DynamicLinks
+  - Firebase/Messaging
+  - FlagPhoneNumber
+  - Flurry-iOS-SDK/FlurrySDK
+  - FlutterwaveSDK
+  - GoogleMaps
+  - GooglePlaces
+  - GooglePlacesAPI
+  - GoogleSignIn
+  - IQKeyboardManager
+  - Lightbox
+  - Lockbox
+  - Mantle
+  - Material
+  - MBProgressHUD (~> 1.1.0)
+  - Moya
+  - NewRelicAgent
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - PINCache
+  - RCPageControl (~> 0.1.2)
+  - Reachability
+  - RMDateSelectionViewController (~> 2.3.1)
+  - RMMapper
+  - RoyoCoreFramework (from `RoyoCoreFramework`)
+  - SBJson
+  - SDWebImage
+  - SkeletonView
+  - SKPhotoBrowser
+  - Socket.IO-Client-Swift (~> 13.1.0)
+  - Stripe (~> 19.0.1)
+  - SwiftyJSON
+  - SZTextView
+  - TYAlertController
+  - Urway (from `https://github.com/URWAYios/UrwaySDK.git`)
+  - YYWebImage
+  - ZendeskSupportSDK
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - ADCountryPicker
+    - Adjust
+    - AFNetworking
+    - Alamofire
+    - AlamofireObjectMapper
+    - AMRatingControl
+    - Analytics
+    - ApiAI
+    - AppAuth
+    - BIObjCHelpers
+    - Braintree
+    - BraintreeDropIn
+    - Cache
+    - Cosmos
+    - CryptoSwift
+    - DBAttachmentPickerController
+    - DropDown
+    - ENSwiftSideMenu
+    - ESPullToRefresh
+    - FacebookCore
+    - FacebookLogin
+    - FacebookShare
+    - FaveButton
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAnalyticsInterop
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseCoreDiagnosticsInterop
+    - FirebaseDynamicLinks
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FlagPhoneNumber
+    - Flurry-iOS-SDK
+    - FlutterwaveSDK
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleDataTransportCCTSupport
+    - GoogleMaps
+    - GooglePlaces
+    - GooglePlacesAPI
+    - GoogleSignIn
+    - GoogleUtilities
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - Imaginary
+    - IQKeyboardManager
+    - IQKeyboardManagerSwift
+    - Lightbox
+    - Lockbox
+    - lottie-ios
+    - Mantle
+    - Material
+    - MaterialComponents
+    - MBProgressHUD
+    - MDFInternationalization
+    - Motion
+    - Moya
+    - nanopb
+    - NewRelicAgent
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Paystack
+    - PINCache
+    - pop
+    - Protobuf
+    - RCPageControl
+    - Reachability
+    - Result
+    - RMActionController
+    - RMDateSelectionViewController
+    - RMMapper
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SBJson
+    - SDWebImage
+    - SkeletonView
+    - SKPhotoBrowser
+    - Socket.IO-Client-Swift
+    - SquareInAppPaymentsSDK
+    - Starscream
+    - Stripe
+    - SwiftHash
+    - SwiftyJSON
+    - Swinject
+    - SwinjectAutoregistration
+    - SZTextView
+    - TYAlertController
+    - YYCache
+    - YYImage
+    - YYWebImage
+    - ZendeskCommonUISDK
+    - ZendeskCoreSDK
+    - ZendeskMessagingAPISDK
+    - ZendeskMessagingSDK
+    - ZendeskSDKConfigurationsSDK
+    - ZendeskSupportProvidersSDK
+    - ZendeskSupportSDK
+
+EXTERNAL SOURCES:
+  RoyoCoreFramework:
+    :path: RoyoCoreFramework
+  Urway:
+    :git: https://github.com/URWAYios/UrwaySDK.git
+
+CHECKOUT OPTIONS:
+  Urway:
+    :commit: 627630112402e7674efcb38e07080564fba76750
+    :git: https://github.com/URWAYios/UrwaySDK.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 6d79f6f3b98e2b21d218dd65a39f634ff37a27e5
+  ADCountryPicker: 502cee76a30ea1c3834eb0df170ce635691655c9
+  Adjust: 91a06a01e4bb35b432e26b5d5bb8995b95fc381c
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  AMRatingControl: f209fd394188ba48a818f2df091db438123db362
+  Analytics: 67cce2129e4b0df5b532bf0c043043f292b32f5f
+  ApiAI: d4b49d3736f33ce6f3ef66dc33c0e0fccb23579e
+  AppAuth: 31bcec809a638d7bd2f86ea8a52bd45f6e81e7c7
+  BIObjCHelpers: 378672b0f9309e4d2cbd4cabfb3afbe1ce225e40
+  Braintree: 9fc21dc2ead57d104c4a0743454308e404217ec7
+  BraintreeDropIn: 15d6f53bf80bc0ae7809ab17803100c0a5448fd2
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  CryptoSwift: 1283821600233bdbeb96d7b389c3288c3bf77211
+  DBAttachmentPickerController: 9b3c5f84a9e4530da6d9e098c710f2152957c31e
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  ENSwiftSideMenu: 21e755dae28f09bbf453aa83b3d05f2e5f92ca39
+  ESPullToRefresh: 8efd37e4cb400addfd28add6757aaf1a461483eb
+  FacebookCore: ba86524b66cfa86d0f8e65d08faa8504a9f732dd
+  FacebookLogin: 6cee9fd6e1fe976fe8f7eec199e27b28b14f5d63
+  FacebookShare: 85968ad1b1606c4944fb154924e425fd29184ea5
+  FaveButton: 93cfebf6030336fa7653fad2068c3152ed668b39
+  FBSDKCoreKit: 1d5acf7c9d7a2f92bb1a242dc60cae5b7adb91df
+  FBSDKLoginKit: f1ea8026a58b52d30c9f2e6a58ca7d813619fb83
+  FBSDKShareKit: 259737eab3cc807087374553abdf588b3096ba55
+  Firebase: 0219bb4782eb1406f1b9b0628a2e625484ce910d
+  FirebaseAnalytics: f68b9f3f1241385129ae0a83b63627fc420c05e5
+  FirebaseAnalyticsInterop: d48b6ab67bcf016a05e55b71fc39c61c0cb6b7f3
+  FirebaseCore: 632e05cc5e1199d9147122c16d92305eb04c34bd
+  FirebaseCoreDiagnostics: 511f4f3ed7d440bb69127e8b97c2bc8befae639e
+  FirebaseCoreDiagnosticsInterop: e9b1b023157e3a2fc6418b5cb601e79b9af7b3a0
+  FirebaseDynamicLinks: 5ba2a0d46ba1615c6c08819fc964c495ca1d0845
+  FirebaseInstanceID: ce993a3c3670a8f5d47ce371ac5d143c560608c5
+  FirebaseMessaging: 089b7a4991425783384acc8bcefcd78c0af913bd
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  Flurry-iOS-SDK: ca3540dd9607a05a8a13a7dd36dfffdd5e0fd0ef
+  FlutterwaveSDK: 1611a5ba61b82facc04c8e7d6d2b3936b32d8b46
+  GoogleAppMeasurement: db118eb61a97dd8c4f7014e368d3c335cbbcf80a
+  GoogleDataTransport: 8e9b210c97d55fbff306cc5468ff91b9cb32dcf5
+  GoogleDataTransportCCTSupport: 202d7cdf9c4a7d81a2bb7f7e7e1ba6faa421b1f2
+  GoogleMaps: 4b5346bddfe6911bb89155d43c903020170523ac
+  GooglePlaces: 1634d019549b969d40fe0ccb0b9513055adebe01
+  GooglePlacesAPI: 6184a463b58443f1bde3fab6ce725c1c8e540419
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GoogleUtilities: 29bd0d8f850efbd28cff6d99e8b7da1f8d236bcf
+  GTMAppAuth: 4deac854479704f348309e7b66189e604cf5e01e
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  Imaginary: dae33d06dbc2ada22f98afef5eb45cc061311a2c
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Lightbox: d317750e4132bfb871a5307cfe0a2c7d6a583c65
+  Lockbox: 4291a0b8b1aed35474881c4e592961dec3ca695e
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  Mantle: 35238ae6f2e2b2d474fa7b67fee82a59fea71915
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  MaterialComponents: 1a9b2d9d45b1601ae544de85089adc4c464306d4
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MDFInternationalization: d697c55307816222a55685c4ccb1044ffb030c12
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
+  NewRelicAgent: b3e6187be5ed02df3095c082dba8bc52c8ca326d
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Paystack: b09ee1590bf6631d36eef48a73c8b7f6ba68f7b0
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  Protobuf: dd1aaea7140debfe4dd0683fb8ef208e527ae153
+  RCPageControl: 5cf5563edbbf6826872b70f81accfa667a2e1412
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RMActionController: 535715be9f3d9eb96a838485370dcccee0dda597
+  RMDateSelectionViewController: 1157d34245e6a1dda700e8a9c44417321d181951
+  RMMapper: 21122d753c736d975f6c61e674afce8db73579af
+  RoyoCoreFramework: 74d3a0a49bc1f4c4d343a94ba9f15e9f107f203a
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SBJson: 31813d1508edec904663cd59e71e0225d9dd8e07
+  SDWebImage: 46a7f73228f84ce80990c786e4372cf4db5875ce
+  SkeletonView: bb27c39857e5492136f02ee8a3aa78de55d12ecd
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  Socket.IO-Client-Swift: d30d6fd08a38ad2a182b090936a043bf512ab2de
+  SquareInAppPaymentsSDK: 6c3293e5600c121bbdc5499ffa3b3976e2cf0054
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  Stripe: 03313f9520a0786e2c00d9a7a2672c11e08821af
+  SwiftHash: 6d312abe61c8359bdef8d0093642f3a70b1c17ba
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  SwinjectAutoregistration: 330f5012642a8b5c89a8a4adb0c5e52df07382c0
+  SZTextView: 094dc6acc9beec537685c545d6e3e0d4975174e1
+  TYAlertController: c121090edb0bea7426f987da94cdddd81eef4231
+  Urway: 7c516643172ca7bc3f1ef0b70e40b0397f51cbac
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+  ZendeskCommonUISDK: 65ae2c50925dee44c09f9678b385837e36316c25
+  ZendeskCoreSDK: 5fa27aeb70392e8770e17c26bfe6c4c78b21975a
+  ZendeskMessagingAPISDK: 6b351a74e941ec3ec9bfc25265d2009d490c8ec7
+  ZendeskMessagingSDK: e9e03ea4ecc4bf7ada86321683441ae24056074b
+  ZendeskSDKConfigurationsSDK: 0fe60a278b9b98e3fca2ee6c0785ff2e84ecc9c7
+  ZendeskSupportProvidersSDK: 98bf9f86dade3c544d0ceb619e3869a2c4cf6276
+  ZendeskSupportSDK: 16a0ea252d6bc8390d17a72385a4e2b42648bb67
+
+PODFILE CHECKSUM: 59215d152ec20286efe966b24d261c020445ae1d
+
+COCOAPODS: 1.12.0
